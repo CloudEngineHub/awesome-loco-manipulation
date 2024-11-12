@@ -8,6 +8,9 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 
 
 ### Learning-based 
+- [2024 CORL] Learning to Open and Traverse Doors with a Legged Manipulator [[paper](https://arxiv.org/abs/2409.04882)] 
+- [2024 CORL] Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation [[paper](https://arxiv.org/abs/2410.13817)] 
+- [2024 CORL] Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [[paper](https://arxiv.org/abs/2406.14655v1)] 
 - [2024 ICRA] Learning to Catch Reactive Objects with a Behavior Predictor [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611106)] 
 - [2024 ICRA] Sim-To-Real Learning for Humanoid Box Loco-Manipulation [[paper](https://arxiv.org/abs/2310.03191)] 
 - [2024 ICRA] Humanoid Loco-Manipulations Using Combined Fast Dense 3D Tracking and SLAM with Wide-Angle Depth-Images [[paper](https://ieeexplore.ieee.org/document/10153459)] 
@@ -22,7 +25,7 @@ Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)]
 
 - [2024 Arxiv] Learning Force Control for Legged Manipulation. [[paper](https://arxiv.org/html/2405.01402v2)] 
 
-- [2024 Arxiv] Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning. [[paper](https://arxiv.org/abs/2407.15815)] 
+- [2024 Corl] Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning. [[paper](https://arxiv.org/abs/2407.15815)] 
 
 - [2024 Arxiv] Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg. [[paper](https://arxiv.org/pdf/2402.10837)] 
 
