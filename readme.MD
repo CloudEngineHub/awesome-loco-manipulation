@@ -3,14 +3,20 @@
 A curated list of resources relevant to loco-manipulation .
 This awesome list is mainly used to organize and share some source I've seen. This list will be updated gradually
 
+<!-- ## Bigger
+[[Huazhe Xu](http://hxu.rocks)] 
+[[Xiaolong Wang](https://xiaolonw.github.io/)]  -->
+<!-- Xiaolong Wang https://xiaolonw.github.io/ -->
+<!-- Marco Hutter https://scholar.google.ch/citations?user=DO3quJYAAAAJ&hl=en -->
 ## Paper list
 
-
-
 ### Learning-based 
+- [2025 ICRA] Catch It! Learning to Catch in Flight with Mobile Dexterous Hands [[project](https://mobile-dex-catch.github.io/)] 
+- [2024 CORL] UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers [[project](https://hy-motion.github.io/)] 
+- [2024 Arxiv] Helpful DoggyBot:Open-World Object Fetching using Legged Robots and Vision-Language Models [[paper](https://helpful-doggybot.github.io/)] 
+- [2024 CORL] HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [[project](https://umi-on-legs.github.io/)] 
 - [2024 CORL] Learning to Open and Traverse Doors with a Legged Manipulator [[paper](https://arxiv.org/abs/2409.04882)] 
 - [2024 CORL] Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation [[paper](https://arxiv.org/abs/2410.13817)] 
-- [2024 CORL] Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [[paper](https://arxiv.org/abs/2406.14655v1)] 
 - [2024 ICRA] Learning to Catch Reactive Objects with a Behavior Predictor [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611106)] 
 - [2024 ICRA] Sim-To-Real Learning for Humanoid Box Loco-Manipulation [[paper](https://arxiv.org/abs/2310.03191)] 
 - [2024 ICRA] Humanoid Loco-Manipulations Using Combined Fast Dense 3D Tracking and SLAM with Wide-Angle Depth-Images [[paper](https://ieeexplore.ieee.org/document/10153459)] 
@@ -38,11 +44,15 @@ Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)]
 - [2022 CORL] Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. [[paper](https://arxiv.org/abs/2210.10044)] [[code](https://github.com/MarkFzp/Deep-Whole-Body-Control)]
 
 ### Model-based
+- [2024 ICRA ] Hierarchical Optimization-based Control for Whole-body Loco-manipulation of Heavy Objects [[paper](https://ieeexplore.ieee.org/abstract/document/10611656)] 
+
 - [2024 IROS ] Physically Consistent Online Inertial Adaptation for Humanoid Loco-manipulation [[paper](https://arxiv.org/pdf/2403.13079)] 
 - [2024 IROS ] Current-Based Impedance Control for Interacting with Mobile Manipulators[[paper](https://arxiv.org/pdf/2403.13079)] 
 - [2024.5 ICRA] Active-Perceptive Motion Generation for Mobile Manipulation. [[paper](https://arxiv.org/pdf/2310.00433)] [[code](https://sites.google.com/view/actpermoma/home)]
 
 - [2024 Arxiv] LocoMan: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators. [[paper](https://arxiv.org/pdf/2403.18197)] 
+- [2023 Arxiv] Dynamic Loco-manipulation on HECTOR: Humanoid for Enhanced ConTrol and Open-source Research. [[paper](https://arxiv.org/abs/2312.11868)] 
+
 
 - [2023 Science Robotics] Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation. [[paper](https://www.science.org/doi/full/10.1126/scirobotics.adg5014)] 
 
