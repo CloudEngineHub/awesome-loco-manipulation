@@ -11,6 +11,11 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 ## Paper list
 
 ### Learning-based 
+
+- [2024 Arxiv] Combining Planning and Diffusion for Mobility with Unknown Dynamics.[[paper]https://arxiv.org/pdf/2410.06911)] 
+- [2024 Humanoids] Perceptive Pedipulation with Local Obstacle Avoidance [[paper](https://ieeexplore.ieee.org/abstract/document/10769896?casa_token=dXsATCHBbxMAAAAA:yjA064AQAbd8iiqcqREGDIPvOZEeSfidlKEyncvG4MbwlEbBFwstcrDQSohOdpNwc_Y-73G8wQiofHU)] 
+- [2024 Arxiv] Generalizable Humanoid Manipulation with 3D Diffusion Policies. [[paper](https://arxiv.org/abs/2410.10803)] 
+- [2024 Arxiv] Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion.[[project](https://playful-doggybot.github.io/)] 
 - [2025 ICRA] Catch It! Learning to Catch in Flight with Mobile Dexterous Hands [[project](https://mobile-dex-catch.github.io/)] 
 - [2024 CORL] UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers [[project](https://hy-motion.github.io/)] 
 - [2024 Arxiv] Helpful DoggyBot:Open-World Object Fetching using Legged Robots and Vision-Language Models [[paper](https://helpful-doggybot.github.io/)] 
@@ -73,6 +78,8 @@ Planning for Pickup Tasks. [[paper](https://arxiv.org/pdf/2406.08653)]
 
  ### Survey
 - [2023.4 Frontiers in Mechanical Engineering]  Legged robots for object manipulation: A review. [[paper](https://www.frontiersin.org/journals/mechanical-engineering/articles/10.3389/fmech.2023.1142421/full)] 
+
+- [2025 Arxiv ] Humanoid locomotion and manipulation: Current progress and challenges in control, planning, and learning.[[paper](https://arxiv.org/abs/2501.02116)] 
 
 
 ## Robot models
