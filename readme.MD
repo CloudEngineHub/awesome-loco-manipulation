@@ -11,8 +11,10 @@ This awesome list is mainly used to organize and share some source I've seen. Th
 ## Paper list
 
 ### Learning-based 
-
-- [2024 Arxiv] Combining Planning and Diffusion for Mobility with Unknown Dynamics.[[paper]https://arxiv.org/pdf/2410.06911)] 
+- [2025 CVPR] Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References.[[project](https://liyitang22.github.io/phys-reach-grasp/)]
+- [2025 CVPR] TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization.[[project](https://liangpan99.github.io/TokenHSI)]
+- [2024 Arxiv] Combining Planning and Diffusion for Mobility with Unknown Dynamics.[[paper](https://arxiv.org/pdf/2410.06911)] 
+- [2024 CORL] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts.[[project](https://lecar-lab.github.io/wococo/)] 
 - [2024 Humanoids] Perceptive Pedipulation with Local Obstacle Avoidance [[paper](https://ieeexplore.ieee.org/abstract/document/10769896?casa_token=dXsATCHBbxMAAAAA:yjA064AQAbd8iiqcqREGDIPvOZEeSfidlKEyncvG4MbwlEbBFwstcrDQSohOdpNwc_Y-73G8wQiofHU)] 
 - [2024 Arxiv] Generalizable Humanoid Manipulation with 3D Diffusion Policies. [[paper](https://arxiv.org/abs/2410.10803)] 
 - [2024 Arxiv] Playful DoggyBot: Learning Agile and Precise Quadrupedal Locomotion.[[project](https://playful-doggybot.github.io/)] 
