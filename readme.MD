@@ -12,6 +12,34 @@ This awesome list is mainly used to organize and share some sources I've seen. T
 
 ### 🧠 Learning-based 
 
+- **[2025 arXiv]** SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [[project](https://nvlabs.github.io/SONIC/)] [[paper](https://arxiv.org/abs/2511.07820)]
+  *Zhengyi Luo, Ye Yuan, Tingwu Wang, Chenran Li, Sirui Chen, et al. (NVIDIA)*
+
+- **[2025 arXiv]** TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [[project](https://twist2-teleop.github.io/)] [[code](https://github.com/amazon-far/TWIST2)]
+  *Yanjie Ze, Siheng Zhao, Weizhuo Wang, Angjoo Kanazawa, Rocky Duan, Pieter Abbeel, Guanya Shi, Jiajun Wu, C. Karen Liu*
+
+- **[2025 CoRL]** MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation [[paper](https://arxiv.org/abs/2505.19086)]
+  *Chen Tessler, Yifeng Jiang, Erwin Coumans, Zhengyi Luo, Gal Chechik, Xue Bin Peng*
+
+- **[2025 arXiv]** BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [[paper](https://arxiv.org/abs/2512.14689)]
+
+- **[2025 CoRL]** Learning Unified Force and Position Control for Legged Loco-Manipulation [[project](https://arxiv.org/abs/2505.20829)]
+
+- **[2024 CoRL]** SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[project](https://usc-gvl.github.io/SkillBlender-web/)]
+
+- **[2025 arXiv]** Versatile Loco-Manipulation through Flexible Interlimb Coordination [[paper](https://www.arxiv.org/abs/2506.07876)]
+
+- **[2025 arXiv]** Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills [[paper](https://www.arxiv.org/abs/2507.04229)]
+
+- **[2025 RSS]** HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[project](https://github.com/OpenRobotLab/OpenHomie)]
+
+- **[2025 CVPR]** Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References [[project](https://liyitang22.github.io/phys-reach-grasp/)]
+
+- **[2025 CVPR]** TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization [[project](https://liangpan99.github.io/TokenHSI)]
+
+- **[2024 arXiv]** Combining Planning and Diffusion for Mobility with Unknown Dynamics [[paper](https://arxiv.org/pdf/2410.06911)]
+
+- **[2024 CoRL]** WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[project](https://lecar-lab.github.io/wococo/)]
 - **[2025 CoRL]** MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation [[paper](https://arxiv.org/abs/2505.19086)]  
   *Chen Tessler, Yifeng Jiang, Erwin Coumans, Zhengyi Luo, Gal Chechik, Xue Bin Peng*
 
